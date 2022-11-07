@@ -1,1 +1,1 @@
-# [Open it!  ![SSH Google Colab With GPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/5t-RawBeRry/Sorry-Colab/blob/main/sorry.ipynb)
+# [Open it!  ![SSH Google Colab With GPU](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/5t-RawBeRry/Sorry-Colab/blob/main/Sorry_AI.ipynb)
